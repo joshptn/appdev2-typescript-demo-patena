@@ -1,10 +1,10 @@
-let age: any = 31
+let myAge: any = 22
 
 // ...
 
-age = '31'
-age = true
-age = {}
-age = []
+myAge = '22'
+myAge = true
+myAge = {}
+myAge = []
 
-console.log(typeof age)
+console.log(typeof myAge)
